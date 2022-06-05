@@ -1,0 +1,22 @@
+.chess-board {
+    display: grid;
+    grid-template-columns: repeat(5, 40px);
+    border: none;
+    height: 40px;
+}
+
+div {
+    border: 1px solid black;
+}
+
+.black {
+    background-color: black;
+}
+
+.cream {
+    background-color: white;
+}
+
+section {
+    margin: 20% 40%;
+}
